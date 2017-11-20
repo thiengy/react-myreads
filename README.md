@@ -3,7 +3,10 @@ Udacity Project 1
 Final assessment for the React Fundamentals course. Created from the Udacity starter template:
 
 npm install to install all project dependencies
+
 npm start to start the application
+
+
 
 Original starter readme copied below:
 
